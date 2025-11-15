@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 983246654277500394}
   - component: {fileID: 2154892385566267723}
   - component: {fileID: 491733786660942363}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: South
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -114,7 +114,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4678595898985181311}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Walls
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -152,7 +152,7 @@ GameObject:
   - component: {fileID: 3768316877537445506}
   - component: {fileID: 7667340961237973713}
   - component: {fileID: 8413941268509906317}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: East
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -257,7 +257,7 @@ GameObject:
   - component: {fileID: 2813024776010176119}
   - component: {fileID: 455953362260706534}
   - component: {fileID: 2749723439273346682}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: North
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -363,7 +363,7 @@ GameObject:
   - component: {fileID: 959127806812090806}
   - component: {fileID: 6862933760681347501}
   - component: {fileID: 3383786446757159568}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Floor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -498,7 +498,7 @@ GameObject:
   - component: {fileID: 5513249483334067277}
   - component: {fileID: 5579768157684171186}
   - component: {fileID: 5507092061204890369}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -632,7 +632,7 @@ GameObject:
   - component: {fileID: 8947971234176222100}
   - component: {fileID: 5463211065746403966}
   - component: {fileID: 5355443748250403083}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tile3
   m_TagString: Tile
   m_Icon: {fileID: 0}
@@ -699,7 +699,7 @@ GameObject:
   - component: {fileID: 4280291275321140817}
   - component: {fileID: 4399275362926373605}
   - component: {fileID: 5909760736957226731}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: West
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -804,7 +804,7 @@ GameObject:
   - component: {fileID: 4798074601061715060}
   - component: {fileID: 7606279042679536414}
   - component: {fileID: 2483694623503522575}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
